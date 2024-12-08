@@ -21,7 +21,7 @@ using namespace std;
 #define MAXWEIGHT 100
 
 
-void Graph_Generator::generate(int nVertices) {
+void Graph_Generator::generate(int nVertices, char* filename) {
 
     set<pair<int, int>> container;
     set<pair<int, int>>::iterator it;
@@ -70,10 +70,16 @@ void Graph_Generator::generate(int nVertices) {
             container.insert(p);
         }
 
+        // for (it = container.begin(); it != container.end(); ++it) {
+        //     int wt = rand() % MAXWEIGHT;
+        //     printf("%d %d %d\n", it->first, it->second, wt);
+        // }
+        ofstream outfile(filename);
         for (it = container.begin(); it != container.end(); ++it) {
             int wt = rand() % MAXWEIGHT;
-            printf("%d %d %d\n", it->first, it->second, wt);
+            outfile << it->first << " " << it->second << " " << wt << endl;
         }
+        outfile.close();
 
         container.clear();
         //printf("\n");
@@ -87,5 +93,5 @@ void Graph_Generator::generate(int nVertices) {
 
 int main(int argc, char **argv) {
     Graph_Generator graphGenerator;
-    graphGenerator.generate(atoi(argv[1]));
+    graphGenerator.generate(atoi(argv[1]), argv[2]);
 }

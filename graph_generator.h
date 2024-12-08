@@ -7,7 +7,7 @@
 
 class Graph_Generator {
 public:
-    void generate(int nVertices);
+    void generate(int nVertices, char* filename);
 };
 
 #endif //FORD_FULKERSON_GPU_GRAPH_GENERATOR_H
