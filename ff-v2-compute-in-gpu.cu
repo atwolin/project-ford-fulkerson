@@ -127,11 +127,11 @@ int main(int argc, char** argv){
     cudaMemcpy(d_residual_capacity, residual_capacity, matrix_size, cudaMemcpyHostToDevice);
 
     int found_augmenting_path = 0;
-    // int go_through_num = 0, last_go_through_num = 0;
-    // int* d_is_empty_or_found;
-    // int* d_go_through_num;
-    // cudaMalloc(&d_is_empty_or_found, sizeof(int));
-    // cudaMalloc(&d_go_through_num, sizeof(int));
+    int go_through_num = 0, last_go_through_num = 0;
+    int* d_is_empty_or_found;
+    int* d_go_through_num;
+    cudaMalloc(&d_is_empty_or_found, sizeof(int));
+    cudaMalloc(&d_go_through_num, sizeof(int));
 
     // int threads = 256;
     // int blocks = ceil(N * 1.0 /threads);
@@ -146,19 +146,48 @@ int main(int argc, char** argv){
         reset<<<blocks, threads>>>(d_node_info, d_frontier, d_visited, source, N, d_locks);
         reset_host(frontier, source, N, do_change_capacity);
 
-        while(!is_frontier_empty_or_sink_found(frontier, N, sink)){
-                // Invoke kernel
-                find_augmenting_path<<< blocks, threads >>>(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks);
+        /*********************************/
+        /**********      OLD       *******/
+        /*********************************/
+        // while(!is_frontier_empty_or_sink_found(frontier, N, sink)){
+		// 		// Invoke kernel
+		// 		find_augmenting_path<<< blocks, threads >>>(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks);
 
-                // Copy back frontier from device
-                cudaMemcpy(frontier, d_frontier, vertices_size, cudaMemcpyDeviceToHost);
-                printf("%d\n", found_augmenting_path);
+		// 		// Copy back frontier from device
+		// 		cudaMemcpy(frontier, d_frontier, vertices_size, cudaMemcpyDeviceToHost);
+        //         printf("%d\n", found_augmenting_path);
+		// }
+
+		// found_augmenting_path = frontier[sink];
+        // printf("d, %d\n", found_augmenting_path);
+		// if(!found_augmenting_path){
+		// 	break;
+		// }
+
+        found_augmenting_path = go_through_num = 0;
+        cudaMemcpy(d_is_empty_or_found, &found_augmenting_path, sizeof(int), cudaMemcpyHostToDevice);
+        cudaMemcpy(d_go_through_num, &go_through_num, sizeof(int), cudaMemcpyHostToDevice);
+        while(!found_augmenting_path) {
+                // printf("d\n");
+
+                // Invoke kernel
+                find_augmenting_path<<<blocks, threads>>>(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks);
+
+                int i = N - 1;
+                for (; i > -1; --i) {
+                    dev_is_frontier_empty_or_sink_found<<<1, 1>>>(d_frontier, i, sink, d_is_empty_or_found, d_go_through_num);
+                }
+                cudaMemcpy(&found_augmenting_path, d_is_empty_or_found, sizeof(int), cudaMemcpyDeviceToHost);
+                cudaMemcpy(&go_through_num, d_go_through_num, sizeof(int), cudaMemcpyDeviceToHost);
+                // printf("%d, go through %d points\n", found_augmenting_path, go_through_num);
+                if (!found_augmenting_path && ((u_int)go_through_num == 0 || go_through_num == last_go_through_num)) break;
+                last_go_through_num = go_through_num;
         }
-        found_augmenting_path = frontier[sink];
-        printf("d, %d\n", found_augmenting_path);
+        // printf("d, %d\n", found_augmenting_path);
         if(!found_augmenting_path){
             break;
         }
+        cudaMemcpy(frontier, d_frontier, vertices_size, cudaMemcpyDeviceToHost);
 
         // copy node_info from device to host
         cudaMemcpy(node_info, d_node_info, node_infos_size, cudaMemcpyDeviceToHost);

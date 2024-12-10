@@ -1,0 +1,109 @@
+d_residual_capacity_size: 5000,
+d_locks_size: 200,
+d_node_info_size: 400,
+d_frontier: 50,
+d_visited: 50,
+d_do_change_capacity: 50
+0
+d, 1
+1
+1
+d, 1
+1
+1
+d, 1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+d, 1
+1
+1
+1
+1
+d, 1
+1
+d, 0
+TIMING: 3.83949 ms (compute total algorithm)

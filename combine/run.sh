@@ -9,7 +9,7 @@ make clean
 # sbatch sbatch_gen.sh
 
 # make ff_original
-make ff
+# make ff
 # make ff_v2
-# make
+make
 sbatch sbatch_ff.sh

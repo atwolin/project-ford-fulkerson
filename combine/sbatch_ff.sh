@@ -17,7 +17,7 @@
 
 # srun ./ff dataset/100v.in 100 dataset/test/100v.no.out
 
-# srun ./ff dataset/50v.in 50 dataset/test/50v.out
+srun ./ff ../dataset/50v.in 50 ../dataset/test/50v.out
 # srun ./ff dataset/100v.in 100 dataset/test/100v.out
 # srun ./ff dataset/500v.in 500 dataset/test/500v.out
 # srun ./ff dataset/750v.in 750 dataset/test/750v.out
@@ -26,4 +26,4 @@
 # srun ./ff dataset/3000v.in 3000 dataset/test/3000v.out
 # srun ./ff dataset/4000v.in 4000 dataset/test/4000v.out
 # srun ./ff dataset/5000v.in 5000 dataset/test/5000v.out
-srun ./ff_v2 dataset/10000v.in 10000 dataset/test/10000v.out
+# srun ./ff dataset/10000v.in 10000 dataset/test/10000v.out
