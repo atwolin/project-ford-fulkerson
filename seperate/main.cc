@@ -68,14 +68,14 @@ int main(int argc, char** argv){
             break;
         }
 
-        // D2H_node_info(node_info, d_node_info, &node_infos_size);
-        // bottleneck_flow = node_info[sink].potential_flow;
-        // max_flow += bottleneck_flow;
-        // for(current_vertex = sink; current_vertex != source; current_vertex = current_node_info->parent_index){
-        //     current_node_info = node_info + current_vertex;
-        //     do_change_capacity[current_vertex] = true;
-        // }
-        // augment_path_device(do_change_capacity, d_node_info, d_do_change_capacity, N, d_residual_capacity, bottleneck_flow, &vertices_size);
+        D2H_node_info(node_info, d_node_info, &node_infos_size);
+        bottleneck_flow = node_info[sink].potential_flow;
+        max_flow += bottleneck_flow;
+        for(current_vertex = sink; current_vertex != source; current_vertex = current_node_info->parent_index){
+            current_node_info = node_info + current_vertex;
+            do_change_capacity[current_vertex] = true;
+        }
+        augment_path_device(do_change_capacity, d_node_info, d_do_change_capacity, N, d_residual_capacity, bottleneck_flow, &vertices_size);
 
     } while(found_augmenting_path);
 

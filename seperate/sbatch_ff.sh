@@ -15,15 +15,15 @@
 # srun ./ff_original dataset/5000v.in 5000 data/results/5000v.out
 # srun ./ff_original dataset/10000v.in 10000 data/results/10000v.out
 
-# srun ./ff dataset/100v.in 100 data/test/100v.no.out
+# srun ./ff dataset/100v.in 100 data/seperate/100v.no.out
 
-# srun ./ff dataset/50v.in 50 data/test/50v.out
-# srun ./ff dataset/100v.in 100 data/test/100v.out
-# srun ./ff dataset/500v.in 500 data/test/500v.out
-# srun ./ff dataset/750v.in 750 data/test/750v.out
-# srun ./ff dataset/1000v.in 1000 data/test/1000v.out
-# srun ./ff dataset/2000v.in 2000 data/test/2000v.out
-# srun ./ff dataset/3000v.in 3000 data/test/3000v.out
-# srun ./ff dataset/4000v.in 4000 data/test/4000v.out
-# srun ./ff dataset/5000v.in 5000 data/test/5000v.out
-# srun ./ff_v2 dataset/10000v.in 10000 data/test/10000v.out
+srun ./ff ../dataset/50v.in 50 ../dataset/seperate/50v.out
+# srun ./ff dataset/100v.in 100 data/seperate/100v.out
+# srun ./ff dataset/500v.in 500 data/seperate/500v.out
+# srun ./ff dataset/750v.in 750 data/seperate/750v.out
+# srun ./ff dataset/1000v.in 1000 data/seperate/1000v.out
+# srun ./ff dataset/2000v.in 2000 data/seperate/2000v.out
+# srun ./ff dataset/3000v.in 3000 data/seperate/3000v.out
+# srun ./ff dataset/4000v.in 4000 data/seperate/4000v.out
+# srun ./ff dataset/5000v.in 5000 data/seperate/5000v.out
+# srun ./ff dataset/10000v.in 10000 data/seperate/10000v.out
