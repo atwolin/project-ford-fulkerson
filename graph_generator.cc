@@ -94,4 +94,5 @@ void Graph_Generator::generate(int nVertices, char* filename) {
 int main(int argc, char **argv) {
     Graph_Generator graphGenerator;
     graphGenerator.generate(atoi(argv[1]), argv[2]);
+    printf("finish %d in %s\n", atoi(argv[1]), argv[2]);
 }

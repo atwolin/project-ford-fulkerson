@@ -206,7 +206,7 @@ int main(int argc, char** argv){
 
     } while(found_augmenting_path);
 
-
+    printf("\nN = %d", N);
     printf("\nmaxflow %d\n", max_flow);
     double time_taken = ((double)clock() - start_time)/CLOCKS_PER_SEC * milliseconds; // in milliseconds
     printf("%f ms for thread size- %d\n", time_taken, num_threads);

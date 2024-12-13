@@ -1,0 +1,48 @@
+
+N = 50
+maxflow 609
+109.825000 ms for thread size- 256
+
+N = 100
+maxflow 1380
+103.460000 ms for thread size- 256
+
+N = 250
+maxflow 2246
+119.181000 ms for thread size- 256
+
+N = 500
+maxflow 6636
+280.240000 ms for thread size- 256
+
+N = 750
+maxflow 10005
+489.802000 ms for thread size- 256
+
+N = 1000
+maxflow 14445
+808.893000 ms for thread size- 256
+
+N = 1500
+maxflow 19486
+1525.878000 ms for thread size- 256
+
+N = 2000
+maxflow 26989
+2651.660000 ms for thread size- 256
+
+N = 3000
+maxflow 41836
+6187.455000 ms for thread size- 256
+
+N = 4000
+maxflow 56854
+10891.111000 ms for thread size- 256
+
+N = 5000
+maxflow 68891
+15502.122000 ms for thread size- 256
+
+N = 10000
+maxflow 142859
+66661.676000 ms for thread size- 256

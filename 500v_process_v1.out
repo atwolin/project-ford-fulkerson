@@ -1,0 +1,9548 @@
+1, go through 1 points
+d, 1
+0, go through 13 points
+1, go through 14 points
+d, 1
+0, go through 13 points
+1, go through 14 points
+d, 1
+0, go through 12 points
+1, go through 13 points
+d, 1
+0, go through 12 points
+0, go through 46 points
+1, go through 47 points
+d, 1
+0, go through 11 points
+0, go through 46 points
+1, go through 47 points
+d, 1
+0, go through 10 points
+0, go through 45 points
+1, go through 46 points
+d, 1
+0, go through 10 points
+0, go through 45 points
+1, go through 46 points
+d, 1
+0, go through 10 points
+0, go through 45 points
+1, go through 46 points
+d, 1
+0, go through 10 points
+0, go through 45 points
+1, go through 46 points
+d, 1
+0, go through 9 points
+0, go through 44 points
+1, go through 45 points
+d, 1
+0, go through 8 points
+0, go through 43 points
+1, go through 44 points
+d, 1
+0, go through 8 points
+0, go through 43 points
+1, go through 44 points
+d, 1
+0, go through 7 points
+0, go through 41 points
+1, go through 42 points
+d, 1
+0, go through 7 points
+0, go through 40 points
+1, go through 41 points
+d, 1
+0, go through 7 points
+0, go through 40 points
+1, go through 41 points
+d, 1
+0, go through 7 points
+0, go through 40 points
+1, go through 41 points
+d, 1
+0, go through 6 points
+0, go through 39 points
+1, go through 40 points
+d, 1
+0, go through 6 points
+0, go through 39 points
+1, go through 40 points
+d, 1
+0, go through 5 points
+0, go through 37 points
+1, go through 38 points
+d, 1
+0, go through 4 points
+0, go through 33 points
+1, go through 34 points
+d, 1
+0, go through 3 points
+0, go through 26 points
+1, go through 27 points
+d, 1
+0, go through 2 points
+0, go through 17 points
+1, go through 18 points
+d, 1
+0, go through 2 points
+0, go through 17 points
+1, go through 18 points
+d, 1
+0, go through 1 points
+0, go through 9 points
+1, go through 10 points
+d, 1
+0, go through 1 points
+0, go through 8 points
+0, go through 41 points
+1, go through 42 points
+d, 1
+0, go through 0 points
+d, 0
+
+maxflow 609
+10.734000 ms for thread size- 1024
+0, go through 31 points
+1, go through 32 points
+d, 1
+0, go through 30 points
+1, go through 31 points
+d, 1
+0, go through 29 points
+1, go through 30 points
+d, 1
+0, go through 29 points
+1, go through 30 points
+d, 1
+0, go through 28 points
+1, go through 29 points
+d, 1
+0, go through 27 points
+1, go through 28 points
+d, 1
+0, go through 26 points
+1, go through 27 points
+d, 1
+0, go through 25 points
+1, go through 26 points
+d, 1
+0, go through 24 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 24 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 24 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 24 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 23 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 22 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 22 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 21 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 21 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 20 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 20 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 20 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 20 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 20 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 19 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 19 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 19 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 19 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 19 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 18 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 18 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 18 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 18 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 18 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 17 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 17 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 17 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 16 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 15 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 14 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 14 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 14 points
+0, go through 96 points
+1, go through 97 points
+d, 1
+0, go through 14 points
+0, go through 96 points
+1, go through 97 points
+d, 1
+0, go through 13 points
+0, go through 96 points
+1, go through 97 points
+d, 1
+0, go through 13 points
+0, go through 96 points
+1, go through 97 points
+d, 1
+0, go through 12 points
+0, go through 95 points
+1, go through 96 points
+d, 1
+0, go through 11 points
+0, go through 95 points
+1, go through 96 points
+d, 1
+0, go through 11 points
+0, go through 95 points
+1, go through 96 points
+d, 1
+0, go through 11 points
+0, go through 95 points
+1, go through 96 points
+d, 1
+0, go through 11 points
+0, go through 95 points
+1, go through 96 points
+d, 1
+0, go through 10 points
+0, go through 94 points
+1, go through 95 points
+d, 1
+0, go through 9 points
+0, go through 90 points
+1, go through 91 points
+d, 1
+0, go through 8 points
+0, go through 85 points
+1, go through 86 points
+d, 1
+0, go through 7 points
+0, go through 82 points
+1, go through 83 points
+d, 1
+0, go through 7 points
+0, go through 81 points
+1, go through 82 points
+d, 1
+0, go through 6 points
+0, go through 76 points
+1, go through 77 points
+d, 1
+0, go through 6 points
+0, go through 75 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 6 points
+0, go through 75 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 5 points
+0, go through 70 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 5 points
+0, go through 70 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 5 points
+0, go through 70 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 4 points
+0, go through 65 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 4 points
+0, go through 65 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 3 points
+0, go through 44 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 3 points
+0, go through 44 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 2 points
+0, go through 33 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 2 points
+0, go through 33 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 1 points
+0, go through 19 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 1 points
+0, go through 18 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 1 points
+0, go through 18 points
+0, go through 97 points
+1, go through 98 points
+d, 1
+0, go through 1 points
+0, go through 17 points
+0, go through 96 points
+1, go through 97 points
+d, 1
+0, go through 1 points
+0, go through 17 points
+0, go through 96 points
+1, go through 97 points
+d, 1
+0, go through 1 points
+0, go through 17 points
+0, go through 96 points
+0, go through 98 points
+1, go through 99 points
+d, 1
+0, go through 0 points
+d, 0
+
+maxflow 1380
+53.474000 ms for thread size- 1024
+0, go through 150 points
+1, go through 151 points
+d, 1
+0, go through 150 points
+1, go through 151 points
+d, 1
+0, go through 149 points
+1, go through 150 points
+d, 1
+0, go through 149 points
+1, go through 150 points
+d, 1
+0, go through 149 points
+1, go through 150 points
+d, 1
+0, go through 148 points
+1, go through 149 points
+d, 1
+0, go through 148 points
+1, go through 149 points
+d, 1
+0, go through 147 points
+1, go through 148 points
+d, 1
+0, go through 147 points
+1, go through 148 points
+d, 1
+0, go through 147 points
+1, go through 148 points
+d, 1
+0, go through 147 points
+1, go through 148 points
+d, 1
+0, go through 147 points
+1, go through 148 points
+d, 1
+0, go through 146 points
+1, go through 147 points
+d, 1
+0, go through 145 points
+1, go through 146 points
+d, 1
+0, go through 144 points
+1, go through 145 points
+d, 1
+0, go through 143 points
+1, go through 144 points
+d, 1
+0, go through 142 points
+1, go through 143 points
+d, 1
+0, go through 142 points
+1, go through 143 points
+d, 1
+0, go through 141 points
+1, go through 142 points
+d, 1
+0, go through 141 points
+1, go through 142 points
+d, 1
+0, go through 141 points
+1, go through 142 points
+d, 1
+0, go through 141 points
+1, go through 142 points
+d, 1
+0, go through 141 points
+1, go through 142 points
+d, 1
+0, go through 140 points
+1, go through 141 points
+d, 1
+0, go through 139 points
+1, go through 140 points
+d, 1
+0, go through 138 points
+1, go through 139 points
+d, 1
+0, go through 137 points
+1, go through 138 points
+d, 1
+0, go through 136 points
+1, go through 137 points
+d, 1
+0, go through 135 points
+1, go through 136 points
+d, 1
+0, go through 134 points
+1, go through 135 points
+d, 1
+0, go through 133 points
+1, go through 134 points
+d, 1
+0, go through 133 points
+1, go through 134 points
+d, 1
+0, go through 133 points
+1, go through 134 points
+d, 1
+0, go through 133 points
+1, go through 134 points
+d, 1
+0, go through 132 points
+1, go through 133 points
+d, 1
+0, go through 131 points
+1, go through 132 points
+d, 1
+0, go through 131 points
+1, go through 132 points
+d, 1
+0, go through 131 points
+1, go through 132 points
+d, 1
+0, go through 131 points
+1, go through 132 points
+d, 1
+0, go through 130 points
+1, go through 131 points
+d, 1
+0, go through 130 points
+1, go through 131 points
+d, 1
+0, go through 130 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 130 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 129 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 129 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 129 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 129 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 129 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 128 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 127 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 127 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 126 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 125 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 125 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 125 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 125 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 125 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 125 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 124 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 124 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 123 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 122 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 121 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 121 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 121 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 120 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 119 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 118 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 118 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 117 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 117 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 116 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 116 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 116 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 116 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 115 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 114 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 113 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 113 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 113 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 112 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 112 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 111 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 111 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 110 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 109 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 109 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 109 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 108 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 108 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 107 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 107 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 107 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 107 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 106 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 106 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 105 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 105 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 105 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 105 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 104 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 104 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 103 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 103 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 102 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 102 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 102 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 102 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 101 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 100 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 99 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 99 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 99 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 98 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 98 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 97 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 97 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 97 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 96 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 96 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 96 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 96 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 96 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 95 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 95 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 95 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 94 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 94 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 94 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 94 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 94 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 94 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 93 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 92 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 91 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 91 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 91 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 91 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 90 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 90 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 90 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 89 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 89 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 89 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 89 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 89 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 89 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 88 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 87 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 86 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 85 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 84 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 83 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 83 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 83 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 82 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 82 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 81 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 81 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 81 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 81 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 81 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 80 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 80 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 80 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 80 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 79 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 78 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 77 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 77 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 77 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 77 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 76 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 75 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 75 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 75 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 74 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 74 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 73 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 73 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 73 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 73 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 72 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 71 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 70 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 69 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 69 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 69 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 69 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 68 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 68 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 68 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 67 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 67 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 67 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 67 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 67 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 67 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 66 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 66 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 66 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 66 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 66 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 65 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 65 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 65 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 64 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 63 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 63 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 63 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 62 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 62 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 62 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 62 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 61 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 61 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 61 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 61 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 60 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 59 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 58 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 58 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 58 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 58 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 58 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 57 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 56 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 56 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 55 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 54 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 54 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 54 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 54 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 53 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 53 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 52 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 52 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 52 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 51 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 51 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 50 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 49 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 48 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 47 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 47 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 47 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 47 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 47 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 46 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 46 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 46 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 46 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 46 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 45 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 45 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 44 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 43 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 42 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 42 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 42 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 41 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 41 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 40 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 40 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 39 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 39 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 39 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 38 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 37 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 37 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 37 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 37 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 36 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 35 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 35 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 34 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 34 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 33 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 32 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 32 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 31 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 31 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 30 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 30 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 30 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 30 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 29 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 29 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 29 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 29 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 28 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 28 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 28 points
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 28 points
+0, go through 498 points
+0, go through 498 points
+d, 0
+
+maxflow 6636
+942.238000 ms for thread size- 1024
+1, go through 1 points
+d, 1
+0, go through 226 points
+1, go through 227 points
+d, 1
+0, go through 226 points
+1, go through 227 points
+d, 1
+0, go through 225 points
+1, go through 226 points
+d, 1
+0, go through 225 points
+1, go through 226 points
+d, 1
+0, go through 224 points
+1, go through 225 points
+d, 1
+0, go through 223 points
+1, go through 224 points
+d, 1
+0, go through 223 points
+1, go through 224 points
+d, 1
+0, go through 223 points
+1, go through 224 points
+d, 1
+0, go through 222 points
+1, go through 223 points
+d, 1
+0, go through 222 points
+1, go through 223 points
+d, 1
+0, go through 221 points
+1, go through 222 points
+d, 1
+0, go through 220 points
+1, go through 221 points
+d, 1
+0, go through 219 points
+1, go through 220 points
+d, 1
+0, go through 219 points
+1, go through 220 points
+d, 1
+0, go through 219 points
+1, go through 220 points
+d, 1
+0, go through 219 points
+1, go through 220 points
+d, 1
+0, go through 218 points
+1, go through 219 points
+d, 1
+0, go through 218 points
+1, go through 219 points
+d, 1
+0, go through 217 points
+1, go through 218 points
+d, 1
+0, go through 216 points
+1, go through 217 points
+d, 1
+0, go through 216 points
+1, go through 217 points
+d, 1
+0, go through 216 points
+1, go through 217 points
+d, 1
+0, go through 215 points
+1, go through 216 points
+d, 1
+0, go through 214 points
+1, go through 215 points
+d, 1
+0, go through 213 points
+1, go through 214 points
+d, 1
+0, go through 212 points
+1, go through 213 points
+d, 1
+0, go through 212 points
+1, go through 213 points
+d, 1
+0, go through 211 points
+1, go through 212 points
+d, 1
+0, go through 211 points
+1, go through 212 points
+d, 1
+0, go through 211 points
+1, go through 212 points
+d, 1
+0, go through 210 points
+1, go through 211 points
+d, 1
+0, go through 209 points
+1, go through 210 points
+d, 1
+0, go through 209 points
+1, go through 210 points
+d, 1
+0, go through 208 points
+1, go through 209 points
+d, 1
+0, go through 208 points
+1, go through 209 points
+d, 1
+0, go through 207 points
+1, go through 208 points
+d, 1
+0, go through 207 points
+1, go through 208 points
+d, 1
+0, go through 206 points
+1, go through 207 points
+d, 1
+0, go through 205 points
+1, go through 206 points
+d, 1
+0, go through 205 points
+1, go through 206 points
+d, 1
+0, go through 204 points
+1, go through 205 points
+d, 1
+0, go through 204 points
+1, go through 205 points
+d, 1
+0, go through 203 points
+1, go through 204 points
+d, 1
+0, go through 202 points
+1, go through 203 points
+d, 1
+0, go through 202 points
+1, go through 203 points
+d, 1
+0, go through 202 points
+1, go through 203 points
+d, 1
+0, go through 202 points
+1, go through 203 points
+d, 1
+0, go through 202 points
+1, go through 203 points
+d, 1
+0, go through 201 points
+1, go through 202 points
+d, 1
+0, go through 200 points
+1, go through 201 points
+d, 1
+0, go through 199 points
+1, go through 200 points
+d, 1
+0, go through 198 points
+1, go through 199 points
+d, 1
+0, go through 198 points
+1, go through 199 points
+d, 1
+0, go through 198 points
+1, go through 199 points
+d, 1
+0, go through 197 points
+1, go through 198 points
+d, 1
+0, go through 196 points
+1, go through 197 points
+d, 1
+0, go through 195 points
+1, go through 196 points
+d, 1
+0, go through 194 points
+1, go through 195 points
+d, 1
+0, go through 193 points
+1, go through 194 points
+d, 1
+0, go through 192 points
+1, go through 193 points
+d, 1
+0, go through 192 points
+1, go through 193 points
+d, 1
+0, go through 191 points
+1, go through 192 points
+d, 1
+0, go through 190 points
+1, go through 191 points
+d, 1
+0, go through 189 points
+1, go through 190 points
+d, 1
+0, go through 188 points
+1, go through 189 points
+d, 1
+0, go through 187 points
+1, go through 188 points
+d, 1
+0, go through 187 points
+1, go through 188 points
+d, 1
+0, go through 186 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 186 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 185 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 185 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 184 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 184 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 184 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 184 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 184 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 183 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 183 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 183 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 182 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 181 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 180 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 180 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 179 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 179 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 179 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 178 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 178 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 178 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 178 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 177 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 176 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 176 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 176 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 175 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 174 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 174 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 174 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 173 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 173 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 173 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 173 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 173 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 173 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 172 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 172 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 172 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 172 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 171 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 171 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 170 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 170 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 170 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 169 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 168 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 168 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 167 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 166 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 165 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 164 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 164 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 163 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 163 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 162 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 162 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 162 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 161 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 161 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 160 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 160 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 159 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 159 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 158 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 157 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 157 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 156 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 155 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 154 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 153 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 153 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 152 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 151 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 151 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 151 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 151 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 150 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 149 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 149 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 148 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 148 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 148 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 148 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 147 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 146 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 146 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 145 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 145 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 144 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 144 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 144 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 143 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 142 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 142 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 141 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 140 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 140 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 140 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 139 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 139 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 139 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 138 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 137 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 137 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 136 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 136 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 136 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 135 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 134 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 134 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 133 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 133 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 133 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 133 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 132 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 131 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 130 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 130 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 129 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 128 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 128 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 127 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 127 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 127 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 126 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 126 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 125 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 125 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 125 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 125 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 125 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 124 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 124 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 124 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 124 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 123 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 123 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 123 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 122 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 122 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 121 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 121 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 121 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 121 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 121 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 120 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 120 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 119 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 118 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 118 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 118 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 117 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 117 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 117 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 116 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 116 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 116 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 116 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 115 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 115 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 114 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 113 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 112 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 112 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 111 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 111 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 111 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 110 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 110 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 110 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 110 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 109 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 109 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 109 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 108 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 108 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 108 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 108 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 107 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 106 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 105 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 104 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 104 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 104 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 103 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 103 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 102 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 102 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 101 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 101 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 100 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 100 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 100 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 99 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 98 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 98 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 97 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 97 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 96 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 95 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 94 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 94 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 93 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 93 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 92 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 92 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 92 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 92 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 92 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 91 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 91 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 91 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 91 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 91 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 91 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 90 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 90 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 89 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 89 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 89 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 89 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 89 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 88 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 88 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 88 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 87 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 86 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 86 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 86 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 86 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 85 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 85 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 84 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 84 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 84 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 84 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 83 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 82 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 81 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 81 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 80 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 79 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 79 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 78 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 77 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 77 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 77 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 76 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 75 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 75 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 75 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 74 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 73 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 72 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 71 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 71 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 70 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 69 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 69 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 69 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 68 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 67 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 66 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 65 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 64 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 64 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 63 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 62 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 62 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 62 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 62 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 61 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 61 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 61 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 61 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 60 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 60 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 60 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 60 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 59 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 59 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 59 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 58 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 58 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 58 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 58 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 57 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 57 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 57 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 57 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 57 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 56 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 55 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 54 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 54 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 54 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 54 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 54 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 53 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 53 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 53 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 52 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 51 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 51 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 50 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 50 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 50 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 50 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 49 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 48 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 48 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 48 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 48 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 48 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 47 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 46 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 46 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 45 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 45 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 45 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 44 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 44 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 43 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 42 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 42 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 41 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 41 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 41 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 40 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 39 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 38 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 37 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 37 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 36 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 35 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 35 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 35 points
+0, go through 748 points
+1, go through 749 points
+d, 1
+0, go through 34 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 33 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 32 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 31 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 30 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 29 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 29 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 28 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 27 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 26 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 25 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 25 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 25 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 25 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 25 points
+0, go through 747 points
+1, go through 748 points
+d, 1
+0, go through 24 points
+0, go through 746 points
+1, go through 747 points
+d, 1
+0, go through 23 points
+0, go through 745 points
+1, go through 746 points
+d, 1
+0, go through 22 points
+0, go through 744 points
+1, go through 745 points
+d, 1
+0, go through 21 points
+0, go through 744 points
+1, go through 745 points
+d, 1
+0, go through 21 points
+0, go through 744 points
+1, go through 745 points
+d, 1
+0, go through 21 points
+0, go through 744 points
+1, go through 745 points
+d, 1
+0, go through 21 points
+0, go through 744 points
+1, go through 745 points
+d, 1
+0, go through 21 points
+0, go through 744 points
+0, go through 748 points
+0, go through 748 points
+d, 0
+
+maxflow 10005
+2309.281000 ms for thread size- 1024
+0, go through 287 points
+1, go through 288 points
+d, 1
+0, go through 286 points
+1, go through 287 points
+d, 1
+0, go through 285 points
+1, go through 286 points
+d, 1
+0, go through 285 points
+1, go through 286 points
+d, 1
+0, go through 285 points
+1, go through 286 points
+d, 1
+0, go through 285 points
+1, go through 286 points
+d, 1
+0, go through 285 points
+1, go through 286 points
+d, 1
+0, go through 284 points
+1, go through 285 points
+d, 1
+0, go through 284 points
+1, go through 285 points
+d, 1
+0, go through 283 points
+1, go through 284 points
+d, 1
+0, go through 282 points
+1, go through 283 points
+d, 1
+0, go through 282 points
+1, go through 283 points
+d, 1
+0, go through 281 points
+1, go through 282 points
+d, 1
+0, go through 281 points
+1, go through 282 points
+d, 1
+0, go through 280 points
+1, go through 281 points
+d, 1
+0, go through 279 points
+1, go through 280 points
+d, 1
+0, go through 279 points
+1, go through 280 points
+d, 1
+0, go through 279 points
+1, go through 280 points
+d, 1
+0, go through 279 points
+1, go through 280 points
+d, 1
+0, go through 279 points
+1, go through 280 points
+d, 1
+0, go through 278 points
+1, go through 279 points
+d, 1
+0, go through 277 points
+1, go through 278 points
+d, 1
+0, go through 277 points
+1, go through 278 points
+d, 1
+0, go through 277 points
+1, go through 278 points
+d, 1
+0, go through 276 points
+1, go through 277 points
+d, 1
+0, go through 276 points
+1, go through 277 points
+d, 1
+0, go through 276 points
+1, go through 277 points
+d, 1
+0, go through 276 points
+1, go through 277 points
+d, 1
+0, go through 276 points
+1, go through 277 points
+d, 1
+0, go through 275 points
+1, go through 276 points
+d, 1
+0, go through 274 points
+1, go through 275 points
+d, 1
+0, go through 273 points
+1, go through 274 points
+d, 1
+0, go through 272 points
+1, go through 273 points
+d, 1
+0, go through 271 points
+1, go through 272 points
+d, 1
+0, go through 271 points
+1, go through 272 points
+d, 1
+0, go through 270 points
+1, go through 271 points
+d, 1
+0, go through 270 points
+1, go through 271 points
+d, 1
+0, go through 270 points
+1, go through 271 points
+d, 1
+0, go through 270 points
+1, go through 271 points
+d, 1
+0, go through 270 points
+1, go through 271 points
+d, 1
+0, go through 270 points
+1, go through 271 points
+d, 1
+0, go through 269 points
+1, go through 270 points
+d, 1
+0, go through 269 points
+1, go through 270 points
+d, 1
+0, go through 268 points
+1, go through 269 points
+d, 1
+0, go through 267 points
+1, go through 268 points
+d, 1
+0, go through 266 points
+1, go through 267 points
+d, 1
+0, go through 265 points
+1, go through 266 points
+d, 1
+0, go through 265 points
+1, go through 266 points
+d, 1
+0, go through 264 points
+1, go through 265 points
+d, 1
+0, go through 263 points
+1, go through 264 points
+d, 1
+0, go through 263 points
+1, go through 264 points
+d, 1
+0, go through 263 points
+1, go through 264 points
+d, 1
+0, go through 263 points
+1, go through 264 points
+d, 1
+0, go through 262 points
+1, go through 263 points
+d, 1
+0, go through 261 points
+1, go through 262 points
+d, 1
+0, go through 261 points
+1, go through 262 points
+d, 1
+0, go through 260 points
+1, go through 261 points
+d, 1
+0, go through 259 points
+1, go through 260 points
+d, 1
+0, go through 259 points
+1, go through 260 points
+d, 1
+0, go through 259 points
+1, go through 260 points
+d, 1
+0, go through 258 points
+1, go through 259 points
+d, 1
+0, go through 257 points
+1, go through 258 points
+d, 1
+0, go through 257 points
+1, go through 258 points
+d, 1
+0, go through 256 points
+1, go through 257 points
+d, 1
+0, go through 255 points
+1, go through 256 points
+d, 1
+0, go through 254 points
+1, go through 255 points
+d, 1
+0, go through 254 points
+1, go through 255 points
+d, 1
+0, go through 254 points
+1, go through 255 points
+d, 1
+0, go through 254 points
+1, go through 255 points
+d, 1
+0, go through 253 points
+1, go through 254 points
+d, 1
+0, go through 253 points
+1, go through 254 points
+d, 1
+0, go through 252 points
+1, go through 253 points
+d, 1
+0, go through 252 points
+1, go through 253 points
+d, 1
+0, go through 252 points
+1, go through 253 points
+d, 1
+0, go through 252 points
+1, go through 253 points
+d, 1
+0, go through 251 points
+1, go through 252 points
+d, 1
+0, go through 251 points
+1, go through 252 points
+d, 1
+0, go through 250 points
+1, go through 251 points
+d, 1
+0, go through 250 points
+1, go through 251 points
+d, 1
+0, go through 249 points
+1, go through 250 points
+d, 1
+0, go through 249 points
+1, go through 250 points
+d, 1
+0, go through 248 points
+1, go through 249 points
+d, 1
+0, go through 247 points
+1, go through 248 points
+d, 1
+0, go through 246 points
+1, go through 247 points
+d, 1
+0, go through 245 points
+1, go through 246 points
+d, 1
+0, go through 245 points
+1, go through 246 points
+d, 1
+0, go through 244 points
+1, go through 245 points
+d, 1
+0, go through 243 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 242 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 241 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 241 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 240 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 240 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 240 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 240 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 239 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 238 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 237 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 237 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 237 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 237 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 236 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 235 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 235 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 234 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 234 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 234 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 233 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 233 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 233 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 232 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 232 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 231 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 231 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 231 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 230 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 230 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 230 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 230 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 230 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 229 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 229 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 229 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 228 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 228 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 227 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 227 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 227 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 227 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 226 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 225 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 224 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 223 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 223 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 223 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 222 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 222 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 222 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 222 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 221 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 220 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 220 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 220 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 219 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 218 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 218 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 218 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 218 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 217 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 217 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 216 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 215 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 215 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 215 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 215 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 214 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 214 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 214 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 213 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 213 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 213 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 212 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 212 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 212 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 211 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 211 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 211 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 211 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 211 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 210 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 210 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 209 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 209 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 209 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 208 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 207 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 207 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 206 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 206 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 206 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 205 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 204 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 204 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 204 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 203 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 202 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 201 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 200 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 200 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 200 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 200 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 200 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 199 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 198 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 198 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 197 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 197 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 197 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 197 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 197 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 197 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 196 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 195 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 195 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 195 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 195 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 194 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 194 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 194 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 193 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 192 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 191 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 190 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 189 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 188 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 187 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 187 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 187 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 186 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 185 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 184 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 184 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 184 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 183 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 183 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 182 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 182 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 182 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 182 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 182 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 182 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 181 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 181 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 181 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 180 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 180 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 179 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 179 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 179 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 178 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 177 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 177 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 176 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 175 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 175 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 175 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 175 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 175 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 174 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 173 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 173 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 173 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 173 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 173 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 172 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 172 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 172 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 172 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 171 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 170 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 169 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 169 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 169 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 168 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 167 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 166 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 165 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 165 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 165 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 164 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 163 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 163 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 162 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 161 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 161 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 161 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 161 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 160 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 160 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 160 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 160 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 159 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 158 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 158 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 158 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 158 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 157 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 156 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 156 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 156 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 155 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 155 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 155 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 154 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 154 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 154 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 154 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 153 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 153 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 153 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 152 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 152 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 152 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 151 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 151 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 151 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 151 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 150 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 149 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 148 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 148 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 148 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 148 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 147 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 146 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 145 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 144 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 144 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 144 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 144 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 144 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 143 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 142 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 142 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 142 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 141 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 140 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 140 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 140 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 140 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 140 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 140 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 139 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 139 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 138 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 138 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 138 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 137 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 136 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 136 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 136 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 135 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 134 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 134 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 134 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 134 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 133 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 132 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 132 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 131 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 130 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 129 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 129 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 128 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 128 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 127 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 127 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 126 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 126 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 126 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 125 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 124 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 124 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 124 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 123 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 122 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 121 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 121 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 120 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 120 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 120 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 119 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 119 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 119 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 119 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 119 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 118 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 117 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 116 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 116 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 116 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 115 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 115 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 115 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 114 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 113 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 113 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 113 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 112 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 111 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 111 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 111 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 111 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 111 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 110 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 109 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 108 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 108 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 108 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 108 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 108 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 108 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 107 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 106 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 106 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 105 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 105 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 104 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 103 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 103 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 103 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 103 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 102 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 101 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 101 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 101 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 100 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 99 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 99 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 98 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 98 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 98 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 97 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 96 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 95 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 95 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 94 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 93 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 93 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 93 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 93 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 92 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 92 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 92 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 92 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 92 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 91 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 90 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 89 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 89 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 89 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 88 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 88 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 87 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 87 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 87 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 87 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 86 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 85 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 85 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 85 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 85 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 84 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 83 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 82 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 82 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 81 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 80 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 79 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 79 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 79 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 78 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 78 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 78 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 77 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 76 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 76 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 75 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 75 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 74 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 73 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 73 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 73 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 72 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 72 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 72 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 71 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 70 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 69 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 68 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 67 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 67 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 67 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 67 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 67 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 66 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 66 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 65 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 65 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 65 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 64 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 63 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 63 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 62 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 62 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 62 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 62 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 62 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 62 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 61 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 60 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 60 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 60 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 60 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 59 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 58 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 58 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 58 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 58 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 57 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 57 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 57 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 57 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 57 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 56 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 56 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 55 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 55 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 55 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 55 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 54 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 54 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 54 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 54 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 53 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 53 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 53 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 52 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 52 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 51 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 51 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 51 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 51 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 50 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 50 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 49 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 49 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 49 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 48 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 47 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 46 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 46 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 45 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 44 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 44 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 44 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 43 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 42 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 42 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 41 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 41 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 41 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 41 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 40 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 39 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 39 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 39 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 39 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 39 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 38 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 37 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 37 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 36 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 36 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 35 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 35 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 35 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 35 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 35 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 34 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 33 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 32 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 32 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 31 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 31 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 31 points
+0, go through 997 points
+1, go through 998 points
+d, 1
+0, go through 30 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 30 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 29 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 29 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 28 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 27 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 27 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 27 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 26 points
+0, go through 996 points
+1, go through 997 points
+d, 1
+0, go through 25 points
+0, go through 995 points
+1, go through 996 points
+d, 1
+0, go through 25 points
+0, go through 995 points
+1, go through 996 points
+d, 1
+0, go through 24 points
+0, go through 995 points
+1, go through 996 points
+d, 1
+0, go through 24 points
+0, go through 995 points
+1, go through 996 points
+d, 1
+0, go through 23 points
+0, go through 995 points
+1, go through 996 points
+d, 1
+0, go through 23 points
+0, go through 995 points
+1, go through 996 points
+d, 1
+0, go through 22 points
+0, go through 994 points
+1, go through 995 points
+d, 1
+0, go through 22 points
+0, go through 994 points
+1, go through 995 points
+d, 1
+0, go through 21 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 21 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 21 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 21 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 21 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 20 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 20 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 20 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 20 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 20 points
+0, go through 992 points
+1, go through 993 points
+d, 1
+0, go through 19 points
+0, go through 990 points
+1, go through 991 points
+d, 1
+0, go through 19 points
+0, go through 990 points
+1, go through 991 points
+d, 1
+0, go through 19 points
+0, go through 990 points
+1, go through 991 points
+d, 1
+0, go through 19 points
+0, go through 990 points
+1, go through 991 points
+d, 1
+0, go through 19 points
+0, go through 990 points
+1, go through 991 points
+d, 1
+0, go through 18 points
+0, go through 985 points
+1, go through 986 points
+d, 1
+0, go through 18 points
+0, go through 985 points
+1, go through 986 points
+d, 1
+0, go through 18 points
+0, go through 985 points
+1, go through 986 points
+d, 1
+0, go through 17 points
+0, go through 985 points
+1, go through 986 points
+d, 1
+0, go through 17 points
+0, go through 985 points
+1, go through 986 points
+d, 1
+0, go through 17 points
+0, go through 985 points
+1, go through 986 points
+d, 1
+0, go through 16 points
+0, go through 983 points
+1, go through 984 points
+d, 1
+0, go through 15 points
+0, go through 983 points
+1, go through 984 points
+d, 1
+0, go through 14 points
+0, go through 979 points
+1, go through 980 points
+d, 1
+0, go through 14 points
+0, go through 978 points
+1, go through 979 points
+d, 1
+0, go through 14 points
+0, go through 978 points
+1, go through 979 points
+d, 1
+0, go through 13 points
+0, go through 970 points
+1, go through 971 points
+d, 1
+0, go through 12 points
+0, go through 961 points
+1, go through 962 points
+d, 1
+0, go through 12 points
+0, go through 961 points
+1, go through 962 points
+d, 1
+0, go through 12 points
+0, go through 961 points
+1, go through 962 points
+d, 1
+0, go through 11 points
+0, go through 948 points
+1, go through 949 points
+d, 1
+0, go through 10 points
+0, go through 936 points
+1, go through 937 points
+d, 1
+0, go through 9 points
+0, go through 909 points
+1, go through 910 points
+d, 1
+0, go through 8 points
+0, go through 868 points
+1, go through 869 points
+d, 1
+0, go through 7 points
+0, go through 829 points
+1, go through 830 points
+d, 1
+0, go through 6 points
+0, go through 788 points
+1, go through 789 points
+d, 1
+0, go through 5 points
+0, go through 720 points
+1, go through 721 points
+d, 1
+0, go through 4 points
+0, go through 642 points
+1, go through 643 points
+d, 1
+0, go through 3 points
+0, go through 542 points
+1, go through 543 points
+d, 1
+0, go through 3 points
+0, go through 541 points
+1, go through 542 points
+d, 1
+0, go through 3 points
+0, go through 540 points
+1, go through 541 points
+d, 1
+0, go through 3 points
+0, go through 539 points
+1, go through 540 points
+d, 1
+0, go through 3 points
+0, go through 539 points
+1, go through 540 points
+d, 1
+0, go through 2 points
+0, go through 401 points
+1, go through 402 points
+d, 1
+0, go through 1 points
+0, go through 231 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 1 points
+0, go through 231 points
+0, go through 998 points
+1, go through 999 points
+d, 1
+0, go through 0 points
+d, 0
+
+maxflow 14445
+4452.867000 ms for thread size- 1024
+0, go through 578 points
+1, go through 579 points
+d, 1
+0, go through 578 points
+1, go through 579 points
+d, 1
+0, go through 577 points
+1, go through 578 points
+d, 1
+0, go through 577 points
+1, go through 578 points
+d, 1
+0, go through 577 points
+1, go through 578 points
+d, 1
+0, go through 577 points
+1, go through 578 points
+d, 1
+0, go through 576 points
+1, go through 577 points
+d, 1
+0, go through 576 points
+1, go through 577 points
+d, 1
+0, go through 575 points
+1, go through 576 points
+d, 1
+0, go through 574 points
+1, go through 575 points
+d, 1
+0, go through 574 points
+1, go through 575 points
+d, 1
+0, go through 574 points
+1, go through 575 points
+d, 1
+0, go through 574 points
+1, go through 575 points
+d, 1
+0, go through 574 points
+1, go through 575 points
+d, 1
+0, go through 573 points
+1, go through 574 points
+d, 1
+0, go through 573 points
+1, go through 574 points
+d, 1
+0, go through 572 points
+1, go through 573 points
+d, 1
+0, go through 571 points
+1, go through 572 points
+d, 1
+0, go through 570 points
+1, go through 571 points
+d, 1
+0, go through 570 points
+1, go through 571 points
+d, 1
+0, go through 569 points
+1, go through 570 points
+d, 1
+0, go through 569 points
+1, go through 570 points
+d, 1
+0, go through 568 points
+1, go through 569 points
+d, 1
+0, go through 567 points
+1, go through 568 points
+d, 1
+0, go through 567 points
+1, go through 568 points
+d, 1
+0, go through 567 points
+1, go through 568 points
+d, 1
+0, go through 566 points
+1, go through 567 points
+d, 1
+0, go through 566 points
+1, go through 567 points
+d, 1
+0, go through 566 points
+1, go through 567 points
+d, 1
+0, go through 565 points
+1, go through 566 points
+d, 1
+0, go through 564 points
+1, go through 565 points
+d, 1
+0, go through 563 points
+1, go through 564 points
+d, 1
+0, go through 563 points
+1, go through 564 points
+d, 1
+0, go through 562 points
+1, go through 563 points
+d, 1
+0, go through 562 points
+1, go through 563 points
+d, 1
+0, go through 562 points
+1, go through 563 points
+d, 1
+0, go through 562 points
+1, go through 563 points
+d, 1
+0, go through 562 points
+1, go through 563 points
+d, 1
+0, go through 561 points
+1, go through 562 points
+d, 1
+0, go through 560 points
+1, go through 561 points
+d, 1
+0, go through 559 points
+1, go through 560 points
+d, 1
+0, go through 558 points
+1, go through 559 points
+d, 1
+0, go through 558 points
+1, go through 559 points
+d, 1
+0, go through 558 points
+1, go through 559 points
+d, 1
+0, go through 557 points
+1, go through 558 points
+d, 1
+0, go through 556 points
+1, go through 557 points
+d, 1
+0, go through 555 points
+1, go through 556 points
+d, 1
+0, go through 554 points
+1, go through 555 points
+d, 1
+0, go through 554 points
+1, go through 555 points
+d, 1
+0, go through 554 points
+1, go through 555 points
+d, 1
+0, go through 553 points
+1, go through 554 points
+d, 1
+0, go through 553 points
+1, go through 554 points
+d, 1
+0, go through 552 points
+1, go through 553 points
+d, 1
+0, go through 551 points
+1, go through 552 points
+d, 1
+0, go through 550 points
+1, go through 551 points
+d, 1
+0, go through 549 points
+1, go through 550 points
+d, 1
+0, go through 549 points
+1, go through 550 points
+d, 1
+0, go through 549 points
+1, go through 550 points
+d, 1
+0, go through 549 points
+1, go through 550 points
+d, 1
+0, go through 548 points
+1, go through 549 points
+d, 1
+0, go through 548 points
+1, go through 549 points
+d, 1
+0, go through 547 points
+1, go through 548 points
+d, 1
+0, go through 546 points
+1, go through 547 points
+d, 1
+0, go through 546 points
+1, go through 547 points
+d, 1
+0, go through 545 points
+1, go through 546 points
+d, 1
+0, go through 545 points
+1, go through 546 points
+d, 1
+0, go through 545 points
+1, go through 546 points
+d, 1
+0, go through 544 points
+1, go through 545 points
+d, 1
+0, go through 544 points
+1, go through 545 points
+d, 1
+0, go through 544 points
+1, go through 545 points
+d, 1
+0, go through 544 points
+1, go through 545 points
+d, 1
+0, go through 544 points
+1, go through 545 points
+d, 1
+0, go through 544 points
+1, go through 545 points
+d, 1
+0, go through 543 points
+1, go through 544 points
+d, 1
+0, go through 543 points
+1, go through 544 points
+d, 1
+0, go through 542 points
+1, go through 543 points
+d, 1
+0, go through 542 points
+1, go through 543 points
+d, 1
+0, go through 542 points
+1, go through 543 points
+d, 1
+0, go through 542 points
+1, go through 543 points
+d, 1
+0, go through 541 points
+1, go through 542 points
+d, 1
+0, go through 541 points
+1, go through 542 points
+d, 1
+0, go through 541 points
+1, go through 542 points
+d, 1
+0, go through 541 points
+1, go through 542 points
+d, 1
+0, go through 540 points
+1, go through 541 points
+d, 1
+0, go through 540 points
+1, go through 541 points
+d, 1
+0, go through 539 points
+1, go through 540 points
+d, 1
+0, go through 539 points
+1, go through 540 points
+d, 1
+0, go through 538 points
+1, go through 539 points
+d, 1
+0, go through 537 points
+1, go through 538 points
+d, 1
+0, go through 536 points
+1, go through 537 points
+d, 1
+0, go through 536 points
+1, go through 537 points
+d, 1
+0, go through 535 points
+1, go through 536 points
+d, 1
+0, go through 535 points
+1, go through 536 points
+d, 1
+0, go through 535 points
+1, go through 536 points
+d, 1
+0, go through 534 points
+1, go through 535 points
+d, 1
+0, go through 533 points
+1, go through 534 points
+d, 1
+0, go through 532 points
+1, go through 533 points
+d, 1
+0, go through 531 points
+1, go through 532 points
+d, 1
+0, go through 530 points
+1, go through 531 points
+d, 1
+0, go through 530 points
+1, go through 531 points
+d, 1
+0, go through 530 points
+1, go through 531 points
+d, 1
+0, go through 530 points
+1, go through 531 points
+d, 1
+0, go through 529 points
+1, go through 530 points
+d, 1
+0, go through 529 points
+1, go through 530 points
+d, 1
+0, go through 529 points
+1, go through 530 points
+d, 1
+0, go through 528 points
+1, go through 529 points
+d, 1
+0, go through 527 points
+1, go through 528 points
+d, 1
+0, go through 527 points
+1, go through 528 points
+d, 1
+0, go through 526 points
+1, go through 527 points
+d, 1
+0, go through 525 points
+1, go through 526 points
+d, 1
+0, go through 525 points
+1, go through 526 points
+d, 1
+0, go through 524 points
+1, go through 525 points
+d, 1
+0, go through 524 points
+1, go through 525 points
+d, 1
+0, go through 524 points
+1, go through 525 points
+d, 1
+0, go through 523 points
+1, go through 524 points
+d, 1
+0, go through 523 points
+1, go through 524 points
+d, 1
+0, go through 523 points
+1, go through 524 points
+d, 1
+0, go through 522 points
+1, go through 523 points
+d, 1
+0, go through 522 points
+1, go through 523 points
+d, 1
+0, go through 521 points
+1, go through 522 points
+d, 1
+0, go through 520 points
+1, go through 521 points
+d, 1
+0, go through 519 points
+1, go through 520 points
+d, 1
+0, go through 518 points
+1, go through 519 points
+d, 1
+0, go through 517 points
+1, go through 518 points
+d, 1
+0, go through 516 points
+1, go through 517 points
+d, 1
+0, go through 516 points
+1, go through 517 points
+d, 1
+0, go through 515 points
+1, go through 516 points
+d, 1
+0, go through 514 points
+1, go through 515 points
+d, 1
+0, go through 514 points
+1, go through 515 points
+d, 1
+0, go through 513 points
+1, go through 514 points
+d, 1
+0, go through 513 points
+1, go through 514 points
+d, 1
+0, go through 512 points
+1, go through 513 points
+d, 1
+0, go through 512 points
+1, go through 513 points
+d, 1
+0, go through 511 points
+1, go through 512 points
+d, 1
+0, go through 510 points
+1, go through 511 points
+d, 1
+0, go through 510 points
+1, go through 511 points
+d, 1
+0, go through 509 points
+1, go through 510 points
+d, 1
+0, go through 509 points
+1, go through 510 points
+d, 1
+0, go through 508 points
+1, go through 509 points
+d, 1
+0, go through 507 points
+1, go through 508 points
+d, 1
+0, go through 507 points
+1, go through 508 points
+d, 1
+0, go through 506 points
+1, go through 507 points
+d, 1
+0, go through 506 points
+1, go through 507 points
+d, 1
+0, go through 505 points
+1, go through 506 points
+d, 1
+0, go through 505 points
+1, go through 506 points
+d, 1
+0, go through 505 points
+1, go through 506 points
+d, 1
+0, go through 505 points
+1, go through 506 points
+d, 1
+0, go through 504 points
+1, go through 505 points
+d, 1
+0, go through 503 points
+1, go through 504 points
+d, 1
+0, go through 503 points
+1, go through 504 points
+d, 1
+0, go through 502 points
+1, go through 503 points
+d, 1
+0, go through 501 points
+1, go through 502 points
+d, 1
+0, go through 500 points
+1, go through 501 points
+d, 1
+0, go through 500 points
+1, go through 501 points
+d, 1
+0, go through 499 points
+1, go through 500 points
+d, 1
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 498 points
+1, go through 499 points
+d, 1
+0, go through 497 points
+1, go through 498 points
+d, 1
+0, go through 497 points
+1, go through 498 points
+d, 1
+0, go through 496 points
+1, go through 497 points
+d, 1
+0, go through 496 points
+1, go through 497 points
+d, 1
+0, go through 495 points
+1, go through 496 points
+d, 1
+0, go through 494 points
+1, go through 495 points
+d, 1
+0, go through 494 points
+1, go through 495 points
+d, 1
+0, go through 494 points
+1, go through 495 points
+d, 1
+0, go through 493 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 492 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 492 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 492 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 491 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 491 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 491 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 490 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 490 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 490 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 489 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 489 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 489 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 489 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 488 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 488 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 488 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 487 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 486 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 485 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 485 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 485 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 485 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 485 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 484 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 484 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 484 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 484 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 484 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 483 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 482 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 481 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 481 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 481 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 480 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 480 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 479 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 479 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 478 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 477 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 477 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 477 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 477 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 477 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 476 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 476 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 475 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 474 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 473 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 473 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 473 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 472 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 471 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 470 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 470 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 470 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 470 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 470 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 469 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 468 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 467 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 467 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 467 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 467 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 466 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 465 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 465 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 465 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 465 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 464 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 464 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 463 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 463 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 462 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 461 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 461 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 461 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 460 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 459 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 459 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 459 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 458 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 458 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 458 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 458 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 457 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 457 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 456 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 455 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 454 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 453 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 453 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 452 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 451 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 451 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 451 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 451 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 451 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 450 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 449 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 449 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 448 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 448 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 447 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 447 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 447 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 447 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 447 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 447 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 446 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 446 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 446 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 445 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 444 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 443 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 443 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 443 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 443 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 443 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 443 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 442 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 442 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 442 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 441 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 441 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 440 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 439 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 438 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 438 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 438 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 438 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 437 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 436 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 435 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 435 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 435 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 434 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 434 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 433 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 433 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 433 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 432 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 431 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 431 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 430 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 430 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 430 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 429 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 428 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 428 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 427 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 427 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 426 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 426 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 425 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 425 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 425 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 424 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 423 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 423 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 422 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 421 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 420 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 420 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 419 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 419 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 419 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 419 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 419 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 418 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 418 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 418 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 417 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 416 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 416 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 416 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 416 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 416 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 416 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 415 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 414 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 414 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 413 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 412 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 412 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 412 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 411 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 410 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 409 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 409 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 408 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 408 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 408 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 407 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 406 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 405 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 405 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 404 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 404 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 403 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 403 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 403 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 402 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 402 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 402 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 401 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 401 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 401 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 400 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 400 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 399 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 399 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 399 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 399 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 398 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 397 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 397 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 396 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 395 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 394 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 393 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 393 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 393 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 393 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 392 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 392 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 392 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 392 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 391 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 390 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 390 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 390 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 389 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 389 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 388 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 388 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 388 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 388 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 388 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 387 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 387 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 387 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 386 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 385 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 385 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 385 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 385 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 384 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 383 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 382 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 381 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 381 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 381 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 381 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 380 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 380 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 380 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 380 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 379 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 379 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 379 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 379 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 378 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 378 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 377 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 377 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 376 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 375 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 375 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 375 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 374 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 374 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 373 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 373 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 372 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 372 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 372 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 371 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 370 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 370 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 370 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 369 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 369 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 368 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 367 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 366 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 365 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 364 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 363 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 363 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 363 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 362 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 362 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 362 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 362 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 362 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 362 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 361 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 360 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 359 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 358 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 358 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 358 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 358 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 358 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 358 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 357 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 356 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 356 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 356 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 355 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 355 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 355 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 355 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 354 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 354 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 353 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 353 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 353 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 352 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 351 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 351 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 351 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 351 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 350 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 350 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 349 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 349 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 349 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 348 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 348 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 348 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 348 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 347 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 347 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 346 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 346 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 345 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 345 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 345 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 344 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 344 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 344 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 344 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 344 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 343 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 342 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 342 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 342 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 342 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 341 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 341 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 340 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 339 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 339 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 339 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 338 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 337 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 337 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 337 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 337 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 336 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 336 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 336 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 336 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 335 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 334 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 333 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 332 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 332 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 332 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 332 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 331 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 330 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 329 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 328 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 328 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 327 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 327 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 327 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 326 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 325 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 324 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 324 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 323 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 323 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 322 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 321 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 321 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 321 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 321 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 320 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 319 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 319 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 319 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 319 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 318 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 318 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 318 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 318 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 318 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 318 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 317 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 317 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 316 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 316 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 315 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 314 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 314 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 313 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 312 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 312 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 312 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 311 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 311 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 310 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 310 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 310 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 309 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 308 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 307 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 306 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 305 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 305 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 305 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 304 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 303 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 303 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 303 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 303 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 302 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 301 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 300 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 299 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 298 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 298 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 298 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 297 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 296 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 295 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 295 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 294 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 294 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 293 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 292 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 292 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 291 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 291 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 291 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 291 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 290 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 290 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 290 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 289 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 288 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 288 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 287 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 286 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 285 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 284 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 284 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 284 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 284 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 284 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 283 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 283 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 282 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 282 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 281 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 280 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 279 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 278 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 278 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 278 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 277 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 276 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 275 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 275 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 275 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 274 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 274 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 274 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 274 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 273 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 273 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 272 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 272 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 272 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 272 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 272 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 272 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 271 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 271 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 271 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 271 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 270 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 269 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 268 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 267 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 267 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 266 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 266 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 265 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 265 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 265 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 265 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 265 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 264 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 263 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 263 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 262 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 261 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 261 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 261 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 261 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 260 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 259 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 258 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 257 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 257 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 257 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 256 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 255 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 255 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 254 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 253 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 253 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 253 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 252 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 252 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 252 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 252 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 251 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 250 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 249 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 249 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 248 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 248 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 248 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 248 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 247 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 246 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 245 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 245 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 244 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 243 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 243 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 243 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 242 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 241 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 241 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 241 points
+0, go through 1998 points
+1, go through 1999 points
+d, 1
+0, go through 241 points
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 133806.5 ON apollo-nv-vm2 CANCELLED AT 2024-12-08T23:54:47 ***
+slurmstepd: error: *** JOB 133806 ON apollo-nv-vm2 CANCELLED AT 2024-12-08T23:54:47 ***

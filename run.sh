@@ -8,8 +8,15 @@ make clean
 # make gen
 # sbatch sbatch_gen.sh
 
-# make ff_original
-make ff
-# make ff_v2
-# make
+# mkdir -p ./data/results
+# make ff_v0
+
+# make ff
+
+# mkdir -p ./data/v1
+# make ff_v1
+
+# mkdir -p ./data/test
+make ff_v2
+
 sbatch sbatch_ff.sh

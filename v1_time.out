@@ -1,0 +1,47 @@
+
+N = 50
+maxflow 609
+10.892000 ms for thread size- 1024
+
+N = 100
+maxflow 1380
+51.542000 ms for thread size- 1024
+
+N = 250
+maxflow 2246
+176.492000 ms for thread size- 1024
+
+N = 500
+maxflow 6636
+968.795000 ms for thread size- 1024
+
+N = 750
+maxflow 10005
+2314.880000 ms for thread size- 1024
+
+N = 1000
+maxflow 14445
+4349.321000 ms for thread size- 1024
+
+N = 1500
+maxflow 19486
+8531.254000 ms for thread size- 1024
+
+N = 2000
+maxflow 26989
+15787.925000 ms for thread size- 1024
+
+N = 3000
+maxflow 41836
+35297.527000 ms for thread size- 1024
+
+N = 4000
+maxflow 56854
+65920.627000 ms for thread size- 1024
+
+N = 5000
+maxflow 68891
+98872.196000 ms for thread size- 1024
+slurmstepd: error: *** JOB 174171 ON apollo-nv-vm1 CANCELLED AT 2024-12-13T14:41:36 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 174171.11 ON apollo-nv-vm1 CANCELLED AT 2024-12-13T14:41:36 DUE TO TIME LIMIT ***
