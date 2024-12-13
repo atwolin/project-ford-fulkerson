@@ -1,0 +1,48 @@
+
+N = 50
+maxflow 609
+118.912000 ms for thread size- 1024
+
+N = 100
+maxflow 1380
+102.406000 ms for thread size- 1024
+
+N = 250
+maxflow 2246
+128.363000 ms for thread size- 1024
+
+N = 500
+maxflow 6636
+278.343000 ms for thread size- 1024
+
+N = 750
+maxflow 10005
+492.010000 ms for thread size- 1024
+
+N = 1000
+maxflow 14445
+827.810000 ms for thread size- 1024
+
+N = 1500
+maxflow 19486
+1565.200000 ms for thread size- 1024
+
+N = 2000
+maxflow 26989
+2692.496000 ms for thread size- 1024
+
+N = 3000
+maxflow 41836
+6152.080000 ms for thread size- 1024
+
+N = 4000
+maxflow 56854
+10932.968000 ms for thread size- 1024
+
+N = 5000
+maxflow 68891
+15730.677000 ms for thread size- 1024
+
+N = 10000
+maxflow 142859
+66716.051000 ms for thread size- 1024
