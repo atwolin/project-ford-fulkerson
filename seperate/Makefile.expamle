@@ -85,7 +85,7 @@ clean:
 # seq: seq.cc
 # 	$(CXX) $(CXXFLAGS) -o $@ $?
 
-# ff_original: ff_original.cu
+# ff_v0: ff_v0.cu
 # 	$(NVCC) $(NVFLAGS) $(LDFLAGS) -o $@ $?
 
 # ff: ff.cu

@@ -1,13 +1,13 @@
 #! /bin/bash
 
 # module load ./modules.list
-rm -f slurm-*.out
+# rm -f slurm-*.out
 
 make clean
 
 # make gen
 # sbatch sbatch_gen.sh
 
-make -p ../data/seperate
+mkdir -p ../data/v2
 make
 sbatch sbatch_ff.sh

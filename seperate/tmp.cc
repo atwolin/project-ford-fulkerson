@@ -8,7 +8,6 @@ using namespace std;
 #define milliseconds 1e3
 #define num_threads 1024
 u_int N;
-// int cnt = 0;
 
 void readInput(const char* filename, u_int total_nodes, u_short* residual_capacity);
 void output(char* outFileName, int max_flow, double time);
@@ -90,13 +89,13 @@ int main(int argc, char** argv){
         reset_host(frontier, source, N, do_change_capacity);
 
         while(!is_frontier_empty_or_sink_found(frontier, N, sink)){
-            // // Invoke kernel
-            // find_augmenting_path<<< blocks, threads >>>(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks);
+                // // Invoke kernel
+                // find_augmenting_path<<< blocks, threads >>>(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks);
 
-            // // Copy back frontier from device
-            // cudaMemcpy(frontier, d_frontier, vertices_size, cudaMemcpyDeviceToHost);
-            find_augmenting_path_device(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks,
-                                        frontier, vertices_size);
+                // // Copy back frontier from device
+                // cudaMemcpy(frontier, d_frontier, vertices_size, cudaMemcpyDeviceToHost);
+				find_augmenting_path_device(d_residual_capacity, d_node_info, d_frontier, d_visited, N, sink, d_locks,
+                          					frontier, vertices_size);
         }
 
         found_augmenting_path = frontier[sink];
@@ -123,23 +122,21 @@ int main(int argc, char** argv){
 
     } while(found_augmenting_path);
 
-    printf("\nN = %d", N);
     printf("\nmaxflow %d\n", max_flow);
     double time_taken = ((double)clock() - start_time)/CLOCKS_PER_SEC * milliseconds; // in milliseconds
     printf("%f ms for thread size- %d\n", time_taken, num_threads);
     output(argv[3], max_flow, time_taken);
 
 
-    // free(residual_capacity);
-    // free(frontier);
-    // free(node_info);
+    free(residual_capacity);
+    free(frontier);
+    free(node_info);
 
     // cudaFree(d_residual_capacity);
     // cudaFree(d_node_info);
     // cudaFree(d_frontier);
     // cudaFree(d_visited);
-	// free_device(d_residual_capacity, d_node_info, d_frontier, d_visited);
-    free_device(&d_residual_capacity, &d_node_info, &d_frontier, &d_visited);
+	free_device(d_residual_capacity, d_node_info, d_frontier, d_visited);
 
     return 0;
 }
@@ -182,45 +179,22 @@ void output(char* filename, int max_flow, double time) {
 
 void reset_host(bool* frontier, int source, int total_nodes, bool* do_change_capacity) {
     // printf("reset <version 1>\n");
-    frontier[source] = true;
-    do_change_capacity[source] = false;
+    // frontier[source] = true;
+    // do_change_capacity[source] = false;
 
-    // for (int i = source+1; i < total_nodes; i++) {
-    //     frontier[i] = false;
-    //     do_change_capacity[i] = false;
-    // }
+    // // for (int i = source+1; i < total_nodes; i++) {
+    // //     frontier[i] = false;
+    // //     do_change_capacity[i] = false;
+    // // }
 
-    // for (int i = 0; i < source; i++) {
-    //     frontier[i] = false;
-    //     do_change_capacity[i] = false;
-    // }
+    // // for (int i = 0; i < source; i++) {
+    // //     frontier[i] = false;
+    // //     do_change_capacity[i] = false;
+    // // }
 
     // /* SIMD version 1*/
-    __m512i zero = _mm512_setzero_si512();
-    int i = source + 1;
-    for (; i <= total_nodes - 16; i += 16) {
-        _mm512_storeu_si512((__m512i*)&frontier[i], zero);
-        _mm512_storeu_si512((__m512i*)&do_change_capacity[i], zero);
-    }
-    for (; i < total_nodes; i++) {
-        frontier[i] = false;
-        do_change_capacity[i] = false;
-    }
-
-    i = 0;
-    for (; i <= (source - 2) - 16; i += 16) {
-        _mm512_storeu_si512((__m512i*)&frontier[i], zero);
-        _mm512_storeu_si512((__m512i*)&do_change_capacity[i], zero);
-    }
-    for (; i < (source - 1); i++) {
-        frontier[i] = false;
-        do_change_capacity[i] = false;
-    }
-
-    /* SIMD version 2*/
-    // printf("reset <version 2>\n");
     // __m512i zero = _mm512_setzero_si512();
-    // int i = 0;
+    // int i = source + 1;
     // for (; i <= total_nodes - 16; i += 16) {
     //     _mm512_storeu_si512((__m512i*)&frontier[i], zero);
     //     _mm512_storeu_si512((__m512i*)&do_change_capacity[i], zero);
@@ -230,110 +204,57 @@ void reset_host(bool* frontier, int source, int total_nodes, bool* do_change_cap
     //     do_change_capacity[i] = false;
     // }
 
-    // frontier[source] = true;
-    // do_change_capacity[source] = false;
+    // i = 0;
+    // for (; i <= (source - 2) - 16; i += 16) {
+    //     _mm512_storeu_si512((__m512i*)&frontier[i], zero);
+    //     _mm512_storeu_si512((__m512i*)&do_change_capacity[i], zero);
+    // }
+    // for (; i < (source - 1); i++) {
+    //     frontier[i] = false;
+    //     do_change_capacity[i] = false;
+    // }
+
+    /* SIMD version 2*/
+    printf("reset <version 2>\n");
+    __m512i zero = _mm512_setzero_si512();
+    int i = 0;
+    for (; i <= total_nodes - 16; i += 16) {
+        _mm512_storeu_si512((__m512i*)&frontier[i], zero);
+        _mm512_storeu_si512((__m512i*)&do_change_capacity[i], zero);
+    }
+    for (; i < total_nodes; i++) {
+        frontier[i] = false;
+        do_change_capacity[i] = false;
+    }
+
+    frontier[source] = true;
+    do_change_capacity[source] = false;
 }
 
 bool is_frontier_empty_or_sink_found(bool* frontier, int N, int sink_pos) {
-    // for (int i = N-1; i > -1; --i) {
-    //     if(frontier[i]){
+    for (int i = N-1; i > -1; --i) {
+        if(frontier[i]){
+            return i == sink_pos;
+        }
+    }
+    return true;
+
+    // __m512i sink_mask = _mm512_set1_epi32(sink_pos);
+    // for (int i = 0; i <= N - 16; i += 16) {
+    //     __m512i frontier_chunk = _mm512_loadu_si512((__m512i*)&frontier[i]);
+    //     __mmask16 mask = _mm512_test_epi32_mask(frontier_chunk, _mm512_set1_epi32(1));
+    //     if (mask) {
+    //         __m512i indices = _mm512_add_epi32(_mm512_set1_epi32(i), _mm512_set_epi32(15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0));
+    //         __mmask16 sink_found_mask = _mm512_cmpeq_epi32_mask(indices, sink_mask);
+    //         if (sink_found_mask) {
+    //             return true;
+    //         }
+    //     }
+    // }
+    // for (int i = (N / 16) * 16; i < N; ++i) {
+    //     if (frontier[i]) {
     //         return i == sink_pos;
     //     }
     // }
     // return true;
-
-
-
-    int i = N - 1;
-
-    // if (cnt == 0) printf("i starts from %d to find %d\n", i, sink_pos);
-
-    for (; i % 16 != 0; --i) {
-        if (frontier[i]) {
-            // printf("in phase 1\n");
-            return (i == sink_pos);
-        }
-    }
-
-    // if (cnt == 0) printf("i now should be the multiple of 16: %d\n", i);
-
-    __m512i sink_vec = _mm512_set1_epi32(sink_pos);
-    __m512i frontier_chunk;
-    __mmask16 mask, sink_mask;
-    __m512i indices;
-    for (; i > 0; i -= 16) {
-        frontier_chunk = _mm512_loadu_si512((__m512i*)&frontier[i - 16]);
-        mask = _mm512_cmpneq_epi32_mask(frontier_chunk, _mm512_setzero_si512());
-
-        // Print mask in binary
-        // printf("mask:");
-        // for (int bit = 15; bit >= 0; bit--) {
-        //     printf("%d", (mask >> bit) & 1);
-        // }
-        // printf("\n");
-
-        if (mask != 0) {
-            // printf("in phase 2\n");
-            indices = _mm512_set_epi32(i - 1, i - 2, i - 3, i - 4,
-                                       i - 5, i - 6, i - 7, i - 8,
-                                       i - 9, i - 10, i - 11, i - 12,
-                                       i - 13, i - 14, i - 15, i - 16);
-
-            // // Print indices
-            // printf("indices:");
-            // for (int j = 0; j < 16; j++) {
-            //     printf("%d ", ((int*)&indices)[j]);
-            // }
-            // printf("\n");
-            // // Print sink_vec
-            // printf("sink_vec:");
-            // for (int j = 0; j < 16; j++) {
-            //     printf("%d ", ((int*)&sink_vec)[j]);
-            // }
-            // printf("\n");
-
-            sink_mask = _mm512_cmpeq_epi32_mask(indices, sink_vec);
-
-            // // Print sink_mask in binary
-            // printf("sink_mask:");
-            // for (int bit = 15; bit >= 0; bit--) {
-            //     printf("%d", (sink_mask >> bit) & 1);
-            // }
-            // printf("\n");
-
-            // __mmask16 result_mask = _mm512_kand(mask, sink_mask);
-            // // Print result_mask in binary
-            // printf("result_mask:");
-            // for (int bit = 15; bit >= 0; bit--) {
-            //     printf("%d", (result_mask >> bit) & 1);
-            // }
-            // printf("\n");
-
-
-            if (_mm512_kand(mask, sink_mask)) {
-                return true;
-            } else {
-                return false;
-            }
-        }
-    }
-
-    // for (; i > 0; --i) {
-    //     if (frontier[i]) {
-    //         printf("in phase 2\n");
-    //         return (i == sink_pos);
-    //     }
-    // }
-
-    // if (cnt == 0) printf("i ends SIMD: %d\n", i);
-
-    for (; i > -1; --i) {
-        if (frontier[i]) {
-            // printf("in phase 3\n");
-            return (i == sink_pos);
-        }
-    }
-
-    // if (cnt == 0) printf("i completes: %d\n", i);
-    return true;
 }
